@@ -1,6 +1,6 @@
 package edu.cpcc.labs;
 
-// Stamp enum
+//Stamp enum 
 public enum Stamp {
 	FIRST_CLASS,
 	EXPRESS,
